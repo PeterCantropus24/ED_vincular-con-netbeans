@@ -1,0 +1,13 @@
+Granada/GR001/Hotel Luz/50
+Jaen/J001/Hotel Aceituna/25
+Granada/GR003/Hotel Alixares/60
+Granada/GR004/Abades Nevada Palace/49
+Granada/GR005/Parador de Granada/280
+Jaen/J002/Hostal aceite/36
+Malaga/MA002/Eurostars Astoria/53
+Malaga/MA003/Hotel del pintor/39
+Cordoba/CO001/Eurostars Palace/66
+Malaga/MA001/Hotel Miramar/164
+Cordoba/CO002/Patios de Cordoba/50
+Cordoba/CO003/H10 Palacio Colomera/58
+Huetor Santillan/GR002/Hotel Corona/45

@@ -1,0 +1,11 @@
+GR001/Sauna:20,Gimnasio:30
+GR002/Sauna:21,Gimnasio:31,Peluqueria:16
+GR003/Sauna:22,Gimnasio:32,Peluqueria:17
+GR004/Sauna:23,Gimnasio:33,Peluqueria:18
+GR005/Sauna:24,Gimnasio:34,Peluqueria:19
+MA001/Sauna:25,Gimnasio:35,Peluqueria:20
+MA002/Sauna:26,Gimnasio:36,Peluqueria:21
+MA003/Sauna:27,Gimnasio:37,Peluqueria:22
+CO001/Sauna:28,Gimnasio:38,Peluqueria:23
+CO002/Sauna:29,Gimnasio:39,Peluqueria:24
+CO003/Sauna:30,Gimnasio:40,Peluqueria:25
